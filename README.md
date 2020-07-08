@@ -8,4 +8,4 @@
 ## Блок 1. Python
 
 1 занятие (12.05.2020)  
-[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_Python_v2/tree/master/1_Introduction)
+[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование. Списки и кортежи](https://github.com/pileyan/Python_intensive/tree/master/Lecture%201.%20Data%20types)
