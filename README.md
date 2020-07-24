@@ -16,3 +16,14 @@
 
 3 занятие (14.07.2020)
 [Регулярные выражения. Использование регулярных выражений для поиска и предобработки текста.](https://github.com/pileyan/Python_intensive/tree/master/3_Regex)
+
+4 занятие (16.07.2020)
+[Функции и работа с файлами](https://github.com/pileyan/Python_intensive/tree/master/4_Functions_files)
+
+## Блок 2. Введение в анализ данных
+
+1 занятие (21.07.2020)  
+[Библиотека Numpy: работа с векторами и матрицами.](https://github.com/pileyan/Python_intensive/tree/master/5_Numpy)
+
+2 занятие (23.07.2020)
+[Pandas](https://github.com/pileyan/Python_intensive/tree/master/6_Pandas)
