@@ -27,3 +27,6 @@
 
 2 занятие (23.07.2020)
 [Pandas](https://github.com/pileyan/Python_intensive/tree/master/6_Pandas)
+
+3 занятие (30.07.202)
+[Визуализации в python](https://github.com/pileyan/Python_intensive/tree/master/7_Visualisation)
